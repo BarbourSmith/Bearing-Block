@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Block",
-            "x": 248,
-            "y": 194,
+            "x": 206,
+            "y": 118,
             "uniqueID": 321440,
             "ioValues": [],
             "topLevel": false,
@@ -70,8 +70,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Skateboard Bearing",
-                    "x": 230,
-                    "y": 98,
+                    "x": 204,
+                    "y": 47,
                     "uniqueID": 399690,
                     "projectID": "197579076",
                     "ioValues": []
@@ -79,8 +79,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Block",
-                    "x": 248,
-                    "y": 194,
+                    "x": 206,
+                    "y": 118,
                     "uniqueID": 321440,
                     "ioValues": []
                 },
