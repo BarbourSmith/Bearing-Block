@@ -322,7 +322,28 @@
                         },
                         {
                             "name": "yDist",
+                            "ioValue": 7.5
+                        },
+                        {
+                            "name": "zDist",
                             "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 300,
+                    "y": 141,
+                    "uniqueID": 870822,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": -11
                         },
                         {
                             "name": "zDist",
@@ -344,6 +365,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 150895,
                     "ap2ID": 817048
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 817048,
+                    "ap2ID": 870822
                 }
             ],
             "fileTypeVersion": 1
