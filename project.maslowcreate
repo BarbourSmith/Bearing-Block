@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Block",
-            "x": 250,
-            "y": 195,
+            "x": 248,
+            "y": 194,
             "uniqueID": 321440,
             "ioValues": [],
             "topLevel": false,
@@ -18,7 +18,7 @@
                     "ioValues": [
                         {
                             "name": "radius",
-                            "ioValue": 14
+                            "ioValue": 18
                         }
                     ]
                 },
@@ -79,8 +79,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Block",
-                    "x": 250,
-                    "y": 195,
+                    "x": 248,
+                    "y": 194,
                     "uniqueID": 321440,
                     "ioValues": []
                 },
