@@ -60,6 +60,35 @@
         },
         {
             "atomType": "Molecule",
+            "name": "Molecule",
+            "x": 227,
+            "y": 222,
+            "uniqueID": 139389,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "M4 Bolt",
+                    "x": 269,
+                    "y": 146,
+                    "uniqueID": 304913,
+                    "projectID": "197564175",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Bearing Block",
             "x": 0,
             "y": 0,
@@ -82,6 +111,14 @@
                     "x": 206,
                     "y": 118,
                     "uniqueID": 321440,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Molecule",
+                    "x": 227,
+                    "y": 222,
+                    "uniqueID": 139389,
                     "ioValues": []
                 },
                 {
