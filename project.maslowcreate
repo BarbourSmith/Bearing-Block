@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Block",
-            "x": 206,
-            "y": 118,
+            "x": 202,
+            "y": 117,
             "uniqueID": 321440,
             "ioValues": [],
             "topLevel": false,
@@ -12,8 +12,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 210,
-                    "y": 138,
+                    "x": 194,
+                    "y": 127,
                     "uniqueID": 644991,
                     "ioValues": [
                         {
@@ -23,10 +23,23 @@
                     ]
                 },
                 {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 339,
+                    "y": 151,
+                    "uniqueID": 661724,
+                    "ioValues": [
+                        {
+                            "name": "radius",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 896,
-                    "y": 127,
+                    "x": 873,
+                    "y": 126,
                     "uniqueID": 538029,
                     "ioValues": [
                         {
@@ -106,15 +119,15 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": -10
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": 10
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -127,15 +140,15 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": 10
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": -10
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -148,15 +161,15 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": -10
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": -10
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -295,8 +308,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Block",
-                    "x": 206,
-                    "y": 118,
+                    "x": 202,
+                    "y": 117,
                     "uniqueID": 321440,
                     "ioValues": []
                 },
