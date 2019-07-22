@@ -2,13 +2,39 @@
     "molecules": [
         {
             "atomType": "Molecule",
-            "name": "Bearing Block",
-            "x": 0,
-            "y": 0,
-            "uniqueID": 957028,
+            "name": "Block",
+            "x": 250,
+            "y": 195,
+            "uniqueID": 321440,
             "ioValues": [],
-            "topLevel": true,
+            "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 210,
+                    "y": 138,
+                    "uniqueID": 644991,
+                    "ioValues": [
+                        {
+                            "name": "radius",
+                            "ioValue": 14
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 896,
+                    "y": 127,
+                    "uniqueID": 538029,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 10
+                        }
+                    ]
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
@@ -17,7 +43,115 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 644991,
+                    "ap2ID": 538029
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 538029
+                }
+            ],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Bearing Block",
+            "x": 0,
+            "y": 0,
+            "uniqueID": 957028,
+            "ioValues": [],
+            "topLevel": true,
+            "allAtoms": [
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Skateboard Bearing",
+                    "x": 230,
+                    "y": 98,
+                    "uniqueID": 399690,
+                    "projectID": "197579076",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Block",
+                    "x": 250,
+                    "y": 195,
+                    "uniqueID": 321440,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 551,
+                    "y": 90,
+                    "uniqueID": 978952,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 749849",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 233992",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 125431",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 525,
+                    "y": 218,
+                    "uniqueID": 838073,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 233992",
+                    "ap1ID": 399690,
+                    "ap2ID": 978952
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry2",
+                    "ap1ID": 399690,
+                    "ap2ID": 838073
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 749849",
+                    "ap1ID": 321440,
+                    "ap2ID": 978952
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry1",
+                    "ap1ID": 321440,
+                    "ap2ID": 838073
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 978952
+                }
+            ],
             "fileTypeVersion": 1
         }
     ],
