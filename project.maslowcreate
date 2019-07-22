@@ -312,13 +312,13 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 248,
-                    "y": 60,
+                    "x": 236,
+                    "y": 45,
                     "uniqueID": 817048,
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": -9
                         },
                         {
                             "name": "yDist",
@@ -354,17 +354,17 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 399,
-                    "y": 104,
+                    "x": 415,
+                    "y": 76,
                     "uniqueID": 992392,
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": 18
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 18
+                            "ioValue": 0
                         },
                         {
                             "name": "zDist",
@@ -381,11 +381,11 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": 18
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -18
+                            "ioValue": 0
                         },
                         {
                             "name": "zDist",
@@ -396,8 +396,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 661,
-                    "y": 112,
+                    "x": 644,
+                    "y": 55,
                     "uniqueID": 843482,
                     "ioValues": [
                         {
