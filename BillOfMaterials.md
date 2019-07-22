@@ -3,3 +3,7 @@
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
 |Bearing|1|1.5|https://www.amazon.com/RollerBones-Bones-Roller-Bearings/dp/B0094J6GQ0|
+|M4 Bolt|1|0.09|https://www.mcmaster.com/92095a190|
+|M4 Bolt|1|0.09|https://www.mcmaster.com/92095a190|
+|M4 Bolt|1|0.09|https://www.mcmaster.com/92095a190|
+|M4 Bolt|1|0.09|https://www.mcmaster.com/92095a190|
