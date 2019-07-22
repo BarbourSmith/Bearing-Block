@@ -333,8 +333,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 345,
-                    "y": 195,
+                    "x": 315,
+                    "y": 120,
                     "uniqueID": 870822,
                     "ioValues": [
                         {
@@ -375,8 +375,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 512,
-                    "y": 279,
+                    "x": 504,
+                    "y": 119,
                     "uniqueID": 108786,
                     "ioValues": [
                         {
@@ -478,6 +478,11 @@
                     "ap2Name": "3D shape 643631",
                     "ap1ID": 108786,
                     "ap2ID": 843482
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 843482
                 }
             ],
             "fileTypeVersion": 1
