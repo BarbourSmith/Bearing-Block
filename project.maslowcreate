@@ -352,6 +352,23 @@
                     ]
                 },
                 {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 280,
+                    "y": 232,
+                    "uniqueID": 109457,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 22
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 415,
