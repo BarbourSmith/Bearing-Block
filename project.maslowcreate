@@ -38,8 +38,8 @@
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 476,
-                    "y": 194,
+                    "x": 535,
+                    "y": 103,
                     "uniqueID": 974826,
                     "ioValues": []
                 },
@@ -290,8 +290,8 @@
         {
             "atomType": "Molecule",
             "name": "Encoder PCB",
-            "x": 202,
-            "y": 265,
+            "x": 206,
+            "y": 262,
             "uniqueID": 566656,
             "ioValues": [],
             "topLevel": false,
@@ -344,8 +344,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Encoder PCB",
-                    "x": 202,
-                    "y": 265,
+                    "x": 206,
+                    "y": 262,
                     "uniqueID": 566656,
                     "ioValues": []
                 },
