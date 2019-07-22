@@ -60,9 +60,9 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Molecule",
-            "x": 227,
-            "y": 228,
+            "name": "Bolts",
+            "x": 207,
+            "y": 193,
             "uniqueID": 139389,
             "ioValues": [],
             "topLevel": false,
@@ -256,6 +256,26 @@
         },
         {
             "atomType": "Molecule",
+            "name": "Encoder PCB",
+            "x": 202,
+            "y": 265,
+            "uniqueID": 566656,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Bearing Block",
             "x": 0,
             "y": 0,
@@ -282,10 +302,18 @@
                 },
                 {
                     "atomType": "Molecule",
-                    "name": "Molecule",
-                    "x": 227,
-                    "y": 228,
+                    "name": "Bolts",
+                    "x": 207,
+                    "y": 193,
                     "uniqueID": 139389,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Encoder PCB",
+                    "x": 202,
+                    "y": 265,
+                    "uniqueID": 566656,
                     "ioValues": []
                 },
                 {
