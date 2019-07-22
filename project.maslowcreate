@@ -25,8 +25,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 339,
-                    "y": 151,
+                    "x": 329,
+                    "y": 192,
                     "uniqueID": 661724,
                     "ioValues": [
                         {
@@ -34,6 +34,14 @@
                             "ioValue": 10
                         }
                     ]
+                },
+                {
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 476,
+                    "y": 194,
+                    "uniqueID": 974826,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Extrude",
@@ -59,8 +67,20 @@
             "allConnectors": [
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry",
+                    "ap2Name": "geometry1",
                     "ap1ID": 644991,
+                    "ap2ID": 974826
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry2",
+                    "ap1ID": 661724,
+                    "ap2ID": 974826
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 974826,
                     "ap2ID": 538029
                 },
                 {
