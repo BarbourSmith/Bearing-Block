@@ -241,8 +241,8 @@
         {
             "atomType": "Molecule",
             "name": "Plug to clear center",
-            "x": 221,
-            "y": 256,
+            "x": 214,
+            "y": 264,
             "uniqueID": 557296,
             "ioValues": [],
             "topLevel": false,
@@ -290,7 +290,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": -10
                         }
                     ]
                 },
@@ -369,8 +369,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plug to clear center",
-                    "x": 221,
-                    "y": 256,
+                    "x": 214,
+                    "y": 264,
                     "uniqueID": 557296,
                     "ioValues": []
                 },
@@ -463,6 +463,10 @@
                         {
                             "name": "3D shape 510171",
                             "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 189478",
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -499,7 +503,12 @@
                     "ap1ID": 946518,
                     "ap2ID": 646877
                 },
-                null,
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 510171",
+                    "ap1ID": 557296,
+                    "ap2ID": 978952
+                },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
