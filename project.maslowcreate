@@ -61,8 +61,8 @@
         {
             "atomType": "Molecule",
             "name": "Bolts",
-            "x": 205,
-            "y": 191,
+            "x": 194,
+            "y": 197,
             "uniqueID": 139389,
             "ioValues": [],
             "topLevel": false,
@@ -131,7 +131,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -10
+                            "ioValue": -12
                         },
                         {
                             "name": "zDist",
@@ -310,8 +310,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Bolts",
-                    "x": 205,
-                    "y": 191,
+                    "x": 194,
+                    "y": 197,
                     "uniqueID": 139389,
                     "ioValues": []
                 },
