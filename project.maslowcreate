@@ -61,8 +61,8 @@
         {
             "atomType": "Molecule",
             "name": "Bolts",
-            "x": 207,
-            "y": 193,
+            "x": 205,
+            "y": 191,
             "uniqueID": 139389,
             "ioValues": [],
             "topLevel": false,
@@ -93,7 +93,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 10
+                            "ioValue": 0
                         }
                     ]
                 },
@@ -114,7 +114,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 10
+                            "ioValue": 0
                         }
                     ]
                 },
@@ -135,7 +135,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 10
+                            "ioValue": 0
                         }
                     ]
                 },
@@ -186,6 +186,27 @@
                         {
                             "name": "3D shape 761862",
                             "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 950,
+                    "y": 138,
+                    "uniqueID": 317222,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 15
                         }
                     ]
                 },
@@ -248,8 +269,14 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 934891,
+                    "ap2ID": 317222
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
-                    "ap1ID": 934891
+                    "ap1ID": 317222
                 }
             ],
             "fileTypeVersion": 1
@@ -283,8 +310,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Bolts",
-                    "x": 207,
-                    "y": 193,
+                    "x": 205,
+                    "y": 191,
                     "uniqueID": 139389,
                     "ioValues": []
                 },
@@ -364,7 +391,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 10
+                            "ioValue": 15
                         }
                     ]
                 },
