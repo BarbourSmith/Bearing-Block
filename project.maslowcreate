@@ -241,8 +241,8 @@
         {
             "atomType": "Molecule",
             "name": "Plug to clear center",
-            "x": 217,
-            "y": 275,
+            "x": 211,
+            "y": 267,
             "uniqueID": 557296,
             "ioValues": [],
             "topLevel": false,
@@ -256,7 +256,7 @@
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 10
+                            "ioValue": 15
                         }
                     ]
                 },
@@ -369,8 +369,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plug to clear center",
-                    "x": 217,
-                    "y": 275,
+                    "x": 211,
+                    "y": 267,
                     "uniqueID": 557296,
                     "ioValues": []
                 },
