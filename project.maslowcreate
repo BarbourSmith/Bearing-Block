@@ -148,7 +148,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 7
+                            "ioValue": 1
                         }
                     ]
                 },
@@ -317,7 +317,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 15
+                            "ioValue": 2.5
                         }
                     ]
                 },
@@ -338,6 +338,10 @@
                         },
                         {
                             "name": "3D shape 398844",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 903775",
                             "ioValue": 10
                         }
                     ]
@@ -380,6 +384,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 646877,
                     "ap2ID": 745463
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 398844",
+                    "ap1ID": 745463,
+                    "ap2ID": 978952
                 },
                 {
                     "ap1Name": "geometry",
