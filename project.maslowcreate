@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Block",
-            "x": 202,
-            "y": 123,
+            "x": 206,
+            "y": 98,
             "uniqueID": 679863,
             "ioValues": [],
             "topLevel": false,
@@ -92,8 +92,8 @@
         {
             "atomType": "Molecule",
             "name": "Bolts",
-            "x": 207,
-            "y": 203,
+            "x": 210,
+            "y": 151,
             "uniqueID": 139389,
             "ioValues": [],
             "topLevel": false,
@@ -259,27 +259,48 @@
                 {
                     "atomType": "Molecule",
                     "name": "Block",
-                    "x": 202,
-                    "y": 123,
+                    "x": 206,
+                    "y": 98,
                     "uniqueID": 679863,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Bolts",
-                    "x": 207,
-                    "y": 203,
+                    "x": 210,
+                    "y": 151,
                     "uniqueID": 139389,
                     "ioValues": []
                 },
                 {
                     "atomType": "GitHubMolecule",
                     "name": "AS5048 Test PCB",
-                    "x": 207,
-                    "y": 270,
+                    "x": 212,
+                    "y": 205,
                     "uniqueID": 946518,
                     "projectID": "198829562",
                     "ioValues": []
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 384,
+                    "y": 193,
+                    "uniqueID": 646877,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 180
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 0
+                        }
+                    ]
                 },
                 {
                     "atomType": "Translate",
@@ -303,31 +324,10 @@
                     ]
                 },
                 {
-                    "atomType": "Rotate",
-                    "name": "Rotate",
-                    "x": 380,
-                    "y": 247,
-                    "uniqueID": 646877,
-                    "ioValues": [
-                        {
-                            "name": "x-axis degrees",
-                            "ioValue": 180
-                        },
-                        {
-                            "name": "y-axis degrees",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "z-axis degrees",
-                            "ioValue": 0
-                        }
-                    ]
-                },
-                {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 521,
-                    "y": 208,
+                    "x": 527,
+                    "y": 179,
                     "uniqueID": 745463,
                     "ioValues": [
                         {
@@ -408,15 +408,15 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 855346",
-                    "ap1ID": 435608,
-                    "ap2ID": 978952
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 646877,
                     "ap2ID": 745463
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 855346",
+                    "ap1ID": 435608,
+                    "ap2ID": 978952
                 },
                 {
                     "ap1Name": "geometry",
