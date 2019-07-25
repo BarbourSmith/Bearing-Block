@@ -31,3 +31,18 @@ undefined
 undefined
 
 
+## AS5048 Test PCB
+
+
+## Chip
+
+
+## PCB
+
+
+## Mounting Holes
+
+
+## Headers
+
+
