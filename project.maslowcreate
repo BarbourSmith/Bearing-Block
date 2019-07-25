@@ -2,64 +2,6 @@
     "molecules": [
         {
             "atomType": "Molecule",
-            "name": "Block",
-            "x": 196,
-            "y": 109,
-            "uniqueID": 321440,
-            "ioValues": [],
-            "topLevel": false,
-            "allAtoms": [
-                {
-                    "atomType": "Circle",
-                    "name": "Circle",
-                    "x": 194,
-                    "y": 127,
-                    "uniqueID": 644991,
-                    "ioValues": [
-                        {
-                            "name": "diameter",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Extrude",
-                    "name": "Extrude",
-                    "x": 734,
-                    "y": 127,
-                    "uniqueID": 538029,
-                    "ioValues": [
-                        {
-                            "name": "height",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 164,
-                    "ioValues": []
-                }
-            ],
-            "allConnectors": [
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 644991,
-                    "ap2ID": 538029
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 538029
-                }
-            ],
-            "fileTypeVersion": 1
-        },
-        {
-            "atomType": "Molecule",
             "name": "Bolts",
             "x": 206,
             "y": 195,
@@ -301,14 +243,6 @@
                 },
                 {
                     "atomType": "Molecule",
-                    "name": "Block",
-                    "x": 196,
-                    "y": 109,
-                    "uniqueID": 321440,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Molecule",
                     "name": "Bolts",
                     "x": 206,
                     "y": 195,
@@ -352,10 +286,6 @@
                     "y": 90,
                     "uniqueID": 978952,
                     "ioValues": [
-                        {
-                            "name": "3D shape 749849",
-                            "ioValue": 10
-                        },
                         {
                             "name": "3D shape 233992",
                             "ioValue": 10
@@ -404,12 +334,6 @@
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 233992",
                     "ap1ID": 399690,
-                    "ap2ID": 978952
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 749849",
-                    "ap1ID": 321440,
                     "ap2ID": 978952
                 },
                 {
