@@ -31,6 +31,3 @@ undefined
 undefined
 
 
-## Encoder PCB
-
-
