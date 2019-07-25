@@ -2,6 +2,43 @@
     "molecules": [
         {
             "atomType": "Molecule",
+            "name": "Block",
+            "x": 199,
+            "y": 118,
+            "uniqueID": 679863,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 181,
+                    "y": 117,
+                    "uniqueID": 889259,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 37
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 30
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Bolts",
             "x": 207,
             "y": 203,
@@ -165,6 +202,14 @@
                     "y": 47,
                     "uniqueID": 399690,
                     "projectID": "197579076",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Block",
+                    "x": 199,
+                    "y": 118,
+                    "uniqueID": 679863,
                     "ioValues": []
                 },
                 {
