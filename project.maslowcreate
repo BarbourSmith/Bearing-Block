@@ -340,6 +340,10 @@
                         {
                             "name": "3D shape 712065",
                             "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 289432",
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -347,7 +351,7 @@
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 521,
-                    "y": 265,
+                    "y": 208,
                     "uniqueID": 745463,
                     "ioValues": [
                         {
@@ -360,7 +364,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -399,8 +403,20 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 646877,
+                    "ap2ID": 745463
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 978952
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 712065",
+                    "ap1ID": 745463,
+                    "ap2ID": 978952
                 }
             ],
             "fileTypeVersion": 1
