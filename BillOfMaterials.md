@@ -2,5 +2,7 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
+|Encoder PCB|1|$7.00|www.example.com|
+|M4 Bolt|2|$0.18|https://www.mcmaster.com/92095a190|
 |Bearing|1|$1.50|https://www.amazon.com/RollerBones-Bones-Roller-Bearings/dp/B0094J6GQ0|
-|Total: |1|$1.50| |
+|Total: |4|$8.68| |

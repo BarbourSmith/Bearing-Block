@@ -92,19 +92,19 @@
         {
             "atomType": "Molecule",
             "name": "Bolts",
-            "x": 210,
-            "y": 151,
+            "x": 201,
+            "y": 145,
             "uniqueID": 139389,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
                 {
                     "atomType": "GitHubMolecule",
-                    "name": "M4x20 Bolt",
-                    "x": 133,
-                    "y": 165,
-                    "uniqueID": 900048,
-                    "projectID": "198850770",
+                    "name": "M4 Bolt",
+                    "x": 233,
+                    "y": 99,
+                    "uniqueID": 273746,
+                    "projectID": "197564175",
                     "ioValues": []
                 },
                 {
@@ -203,14 +203,14 @@
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 900048,
-                    "ap2ID": 663630
+                    "ap1ID": 273746,
+                    "ap2ID": 136601
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 900048,
-                    "ap2ID": 136601
+                    "ap1ID": 273746,
+                    "ap2ID": 663630
                 },
                 {
                     "ap1Name": "geometry",
@@ -352,8 +352,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Bolts",
-                    "x": 210,
-                    "y": 151,
+                    "x": 201,
+                    "y": 145,
                     "uniqueID": 139389,
                     "ioValues": []
                 },
@@ -511,14 +511,6 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "Stl",
-                    "name": "Stl",
-                    "x": 1207,
-                    "y": 231,
-                    "uniqueID": 583572,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -633,12 +625,6 @@
                     "ap2Name": "geometry1",
                     "ap1ID": 813210,
                     "ap2ID": 282830
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 282830,
-                    "ap2ID": 583572
                 }
             ],
             "fileTypeVersion": 1
