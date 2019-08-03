@@ -377,8 +377,8 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 384,
-                    "y": 193,
+                    "x": 364,
+                    "y": 202,
                     "uniqueID": 646877,
                     "ioValues": [
                         {
@@ -448,8 +448,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 683,
-                    "y": 152,
+                    "x": 732,
+                    "y": 113,
                     "uniqueID": 978952,
                     "ioValues": [
                         {
@@ -477,6 +477,14 @@
                             "ioValue": 10
                         }
                     ]
+                },
+                {
+                    "atomType": "Stl",
+                    "name": "Stl",
+                    "x": 858,
+                    "y": 218,
+                    "uniqueID": 636203,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Output",
@@ -545,6 +553,12 @@
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 978952
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 978952,
+                    "ap2ID": 636203
                 }
             ],
             "fileTypeVersion": 1
