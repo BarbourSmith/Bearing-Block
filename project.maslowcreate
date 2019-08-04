@@ -505,9 +505,17 @@
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 1138,
+                    "x": 1064,
                     "y": 227,
                     "uniqueID": 282830,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Stl",
+                    "name": "Stl",
+                    "x": 1193,
+                    "y": 194,
+                    "uniqueID": 391589,
                     "ioValues": []
                 },
                 {
@@ -625,6 +633,12 @@
                     "ap2Name": "geometry1",
                     "ap1ID": 813210,
                     "ap2ID": 282830
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 282830,
+                    "ap2ID": 391589
                 }
             ],
             "fileTypeVersion": 1
