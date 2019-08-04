@@ -64,7 +64,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 155.5,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -195,7 +195,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 155.5,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -298,7 +298,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 155.5,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -440,8 +440,8 @@
                 {
                     "atomType": "CutAway",
                     "name": "Cut Away",
-                    "x": 558,
-                    "y": 246,
+                    "x": 544,
+                    "y": 222,
                     "uniqueID": 571200,
                     "ioValues": []
                 },
@@ -514,7 +514,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 155.5,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
