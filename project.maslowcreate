@@ -513,16 +513,16 @@
                 {
                     "atomType": "Stl",
                     "name": "Stl",
-                    "x": 1193,
-                    "y": 194,
+                    "x": 1189,
+                    "y": 141,
                     "uniqueID": 391589,
                     "ioValues": []
                 },
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 164,
+                    "x": 1259,
+                    "y": 56,
                     "ioValues": []
                 }
             ],
