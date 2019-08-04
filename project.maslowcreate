@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Block",
-            "x": 216,
-            "y": 98,
+            "x": 51,
+            "y": 88,
             "uniqueID": 679863,
             "ioValues": [],
             "topLevel": false,
@@ -92,8 +92,8 @@
         {
             "atomType": "Molecule",
             "name": "Bolts",
-            "x": 201,
-            "y": 145,
+            "x": 57,
+            "y": 141,
             "uniqueID": 139389,
             "ioValues": [],
             "topLevel": false,
@@ -241,8 +241,8 @@
         {
             "atomType": "Molecule",
             "name": "Plug to clear center",
-            "x": 211,
-            "y": 267,
+            "x": 61,
+            "y": 274,
             "uniqueID": 557296,
             "ioValues": [],
             "topLevel": false,
@@ -335,8 +335,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Skateboard Bearing",
-                    "x": 204,
-                    "y": 47,
+                    "x": 49,
+                    "y": 37,
                     "uniqueID": 399690,
                     "projectID": "197579076",
                     "ioValues": []
@@ -344,24 +344,24 @@
                 {
                     "atomType": "Molecule",
                     "name": "Block",
-                    "x": 216,
-                    "y": 98,
+                    "x": 51,
+                    "y": 88,
                     "uniqueID": 679863,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Bolts",
-                    "x": 201,
-                    "y": 145,
+                    "x": 57,
+                    "y": 141,
                     "uniqueID": 139389,
                     "ioValues": []
                 },
                 {
                     "atomType": "GitHubMolecule",
                     "name": "AS5048 Test PCB",
-                    "x": 212,
-                    "y": 205,
+                    "x": 46,
+                    "y": 213,
                     "uniqueID": 946518,
                     "projectID": "198829562",
                     "ioValues": []
@@ -369,8 +369,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plug to clear center",
-                    "x": 211,
-                    "y": 267,
+                    "x": 61,
+                    "y": 274,
                     "uniqueID": 557296,
                     "ioValues": []
                 },
@@ -419,8 +419,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 527,
-                    "y": 179,
+                    "x": 509,
+                    "y": 124,
                     "uniqueID": 745463,
                     "ioValues": [
                         {
