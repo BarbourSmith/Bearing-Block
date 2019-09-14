@@ -3,6 +3,7 @@
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
 |Bearing|1|$1.50|https://www.amazon.com/RollerBones-Bones-Roller-Bearings/dp/B0094J6GQ0|
-|Total: |1|$1.50| |
+|M4 Bolt|2|$0.18|https://www.mcmaster.com/92095a190|
+|Total: |3|$1.68| |
 
- 3xCOG MSRP: $4.50
+ 3xCOG MSRP: $5.04
