@@ -91,160 +91,6 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Bolts",
-            "x": 57,
-            "y": 141,
-            "uniqueID": 139389,
-            "ioValues": [],
-            "topLevel": false,
-            "allAtoms": [
-                {
-                    "atomType": "GitHubMolecule",
-                    "name": "M4 Bolt",
-                    "x": 233,
-                    "y": 99,
-                    "uniqueID": 273746,
-                    "projectID": "197564175",
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 471,
-                    "y": 73,
-                    "uniqueID": 663630,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 12
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 8
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 1
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 467,
-                    "y": 171,
-                    "uniqueID": 136601,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 12
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": -8
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 1
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Assembly",
-                    "name": "Assembly",
-                    "x": 720,
-                    "y": 126,
-                    "uniqueID": 934891,
-                    "ioValues": [
-                        {
-                            "name": "3D shape 761862",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 427885",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 158864",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 761862",
-                            "ioValue": 10
-                        }
-                    ],
-                    "removeCutawayGeometry": true
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 950,
-                    "y": 138,
-                    "uniqueID": 317222,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 1
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 164,
-                    "ioValues": []
-                }
-            ],
-            "allConnectors": [
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 273746,
-                    "ap2ID": 136601
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 273746,
-                    "ap2ID": 663630
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 427885",
-                    "ap1ID": 663630,
-                    "ap2ID": 934891
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 158864",
-                    "ap1ID": 136601,
-                    "ap2ID": 934891
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 934891,
-                    "ap2ID": 317222
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 317222
-                }
-            ],
-            "fileTypeVersion": 1
-        },
-        {
-            "atomType": "Molecule",
             "name": "Plug to clear center",
             "x": 61,
             "y": 274,
@@ -355,14 +201,6 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "Molecule",
-                    "name": "Bolts",
-                    "x": 57,
-                    "y": 141,
-                    "uniqueID": 139389,
-                    "ioValues": []
-                },
-                {
                     "atomType": "GitHubMolecule",
                     "name": "AS5048 Test PCB",
                     "x": 46,
@@ -466,7 +304,7 @@
                     "uniqueID": 978952,
                     "ioValues": [
                         {
-                            "name": "3D shape 450989",
+                            "name": "3D shape 916325",
                             "ioValue": ""
                         },
                         {
@@ -488,13 +326,18 @@
                         {
                             "name": "3D shape 566083",
                             "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 450989",
-                            "ioValue": 10
                         }
                     ],
                     "removeCutawayGeometry": true
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Encoder Board",
+                    "x": 710,
+                    "y": 225,
+                    "uniqueID": 623839,
+                    "projectID": "210416841",
+                    "ioValues": []
                 },
                 {
                     "atomType": "Output",
@@ -515,12 +358,6 @@
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 836876",
                     "ap1ID": 679863,
-                    "ap2ID": 978952
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 916325",
-                    "ap1ID": 139389,
                     "ap2ID": 978952
                 },
                 {
