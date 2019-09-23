@@ -16,27 +16,6 @@ undefined
 ## Block
 
 
-## AS5048 Test PCB
-
-
-## Chip
-
-
-## PCB
-
-
-## Mounting Holes
-
-
-## Headers
-
-
-undefined
-
-
-## Plug to clear center
-
-
 ## Encoder Board
 
 
@@ -74,5 +53,8 @@ undefined
 
 
 ## Pattern Rotate
+
+
+## Plug to clear center
 
 

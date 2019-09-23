@@ -202,11 +202,11 @@
                 },
                 {
                     "atomType": "GitHubMolecule",
-                    "name": "AS5048 Test PCB",
-                    "x": 46,
-                    "y": 213,
-                    "uniqueID": 946518,
-                    "projectID": "198829562",
+                    "name": "Encoder Board",
+                    "x": 62,
+                    "y": 217,
+                    "uniqueID": 623839,
+                    "projectID": "210416841",
                     "ioValues": []
                 },
                 {
@@ -226,7 +226,7 @@
                     "ioValues": [
                         {
                             "name": "x-axis degrees",
-                            "ioValue": 180
+                            "ioValue": 0
                         },
                         {
                             "name": "y-axis degrees",
@@ -234,7 +234,7 @@
                         },
                         {
                             "name": "z-axis degrees",
-                            "ioValue": 0
+                            "ioValue": 90
                         }
                     ]
                 },
@@ -331,15 +331,6 @@
                     "removeCutawayGeometry": true
                 },
                 {
-                    "atomType": "GitHubMolecule",
-                    "name": "Encoder Board",
-                    "x": 710,
-                    "y": 225,
-                    "uniqueID": 623839,
-                    "projectID": "210416841",
-                    "ioValues": []
-                },
-                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -363,7 +354,7 @@
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 946518,
+                    "ap1ID": 623839,
                     "ap2ID": 646877
                 },
                 {
