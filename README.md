@@ -16,6 +16,9 @@ undefined
 ## Block
 
 
+## Plug to clear center
+
+
 ## Encoder Board
 
 
@@ -50,8 +53,5 @@ undefined
 
 
 undefined
-
-
-## Plug to clear center
 
 
