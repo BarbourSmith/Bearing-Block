@@ -203,8 +203,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Encoder Board",
-                    "x": 62,
-                    "y": 217,
+                    "x": 67,
+                    "y": 201,
                     "uniqueID": 623839,
                     "projectID": "210416841",
                     "ioValues": []
@@ -268,7 +268,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 2.5
+                            "ioValue": 2.51
                         }
                     ]
                 },
@@ -446,5 +446,5 @@
             "fileTypeVersion": 1
         }
     ],
-    "circleSegmentSize": "0.1"
+    "circleSegmentSize": "0.7"
 }
