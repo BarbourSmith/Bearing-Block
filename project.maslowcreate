@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Block",
-            "x": 51,
-            "y": 88,
+            "x": 68,
+            "y": 122,
             "uniqueID": 679863,
             "ioValues": [],
             "topLevel": false,
@@ -64,7 +64,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
@@ -92,7 +92,7 @@
         {
             "atomType": "Molecule",
             "name": "Plug to clear center",
-            "x": 61,
+            "x": 60,
             "y": 274,
             "uniqueID": 557296,
             "ioValues": [],
@@ -149,7 +149,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
@@ -186,8 +186,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Skateboard Bearing",
-                    "x": 49,
-                    "y": 37,
+                    "x": 71,
+                    "y": 54,
                     "uniqueID": 399690,
                     "projectID": "197579076",
                     "ioValues": []
@@ -195,8 +195,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Block",
-                    "x": 51,
-                    "y": 88,
+                    "x": 68,
+                    "y": 122,
                     "uniqueID": 679863,
                     "ioValues": []
                 },
@@ -210,9 +210,22 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Tag",
+                    "name": "Add Tag",
+                    "x": 255,
+                    "y": 105,
+                    "uniqueID": 339019,
+                    "ioValues": [
+                        {
+                            "name": "tag",
+                            "ioValue": "Block"
+                        }
+                    ]
+                },
+                {
                     "atomType": "Molecule",
                     "name": "Plug to clear center",
-                    "x": 61,
+                    "x": 60,
                     "y": 274,
                     "uniqueID": 557296,
                     "ioValues": []
@@ -262,8 +275,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 445,
-                    "y": 35,
+                    "x": 502,
+                    "y": 64,
                     "uniqueID": 435608,
                     "ioValues": [
                         {
@@ -283,8 +296,8 @@
                 {
                     "atomType": "CutAway",
                     "name": "Cut Away",
-                    "x": 507,
-                    "y": 127,
+                    "x": 540,
+                    "y": 161,
                     "uniqueID": 124701,
                     "ioValues": []
                 },
@@ -299,42 +312,55 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 704,
-                    "y": 47,
+                    "x": 773,
+                    "y": 125,
                     "uniqueID": 978952,
                     "ioValues": [
                         {
-                            "name": "3D shape 916325",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 916325",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 189478",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 836876",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 126806",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "3D shape 566083",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 642813",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 597789",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 960157",
                             "ioValue": 10
                         }
                     ],
                     "removeCutawayGeometry": true
                 },
                 {
+                    "atomType": "ExtractTag",
+                    "name": "Extract Tag",
+                    "x": 936,
+                    "y": 226,
+                    "uniqueID": 992105,
+                    "ioValues": [
+                        {
+                            "name": "tag",
+                            "ioValue": "Block"
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Stl",
+                    "name": "Stl",
+                    "x": 1130,
+                    "y": 243,
+                    "uniqueID": 845624,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
@@ -347,15 +373,21 @@
                 },
                 {
                     "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 836876",
+                    "ap2Name": "geometry",
                     "ap1ID": 679863,
-                    "ap2ID": 978952
+                    "ap2ID": 339019
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 623839,
                     "ap2ID": 646877
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 566083",
+                    "ap1ID": 339019,
+                    "ap2ID": 978952
                 },
                 {
                     "ap1Name": "Geometry",
@@ -377,19 +409,19 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 126806",
+                    "ap2Name": "3D shape 960157",
                     "ap1ID": 435608,
                     "ap2ID": 978952
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 566083",
+                    "ap2Name": "3D shape 597789",
                     "ap1ID": 124701,
                     "ap2ID": 978952
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 189478",
+                    "ap2Name": "3D shape 642813",
                     "ap1ID": 571200,
                     "ap2ID": 978952
                 },
@@ -397,10 +429,22 @@
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 978952
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 978952,
+                    "ap2ID": 992105
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 992105,
+                    "ap2ID": 845624
                 }
             ],
             "fileTypeVersion": 1
         }
     ],
-    "circleSegmentSize": 0.25
+    "circleSegmentSize": "0.1"
 }
