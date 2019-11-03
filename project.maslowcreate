@@ -64,7 +64,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 154,
+                    "y": 157,
                     "ioValues": []
                 }
             ],
@@ -149,7 +149,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 154,
+                    "y": 157,
                     "ioValues": []
                 }
             ],
@@ -260,15 +260,15 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 1
+                            "ioValue": 0
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 1
+                            "ioValue": 0
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 2.51
+                            "ioValue": 2.5
                         }
                     ]
                 },
@@ -360,7 +360,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 154,
+                    "y": 157,
                     "ioValues": []
                 }
             ],
